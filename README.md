@@ -1,5 +1,19 @@
 # Smart Phone Detection using YOLOv3
 
+
+## Group No - 7
+- Tenzin Rinchen
+- Nima Arabi 
+- Ledi Caushi
+
+
+## Table of Contents
+
+- CV_project.ipynb
+- Model/Yolov3.cfg
+- Model/Coco.names
+- Model/Yolo.weights
+
 ## Project Overview
 
 Mobile phones are everywhere in the modern, highly digital world and have managed to find a place for themselves as tools in communication, information access, and many other daily activities. This, however, comes with a cost: challenges to environments where their use is considered disruptive or even prohibited. These include educational institutions where mobile phones can be bad for learning; examination settings where they engender cheating; and during professional meetings, their presence may undermine the integrity of the discussions and give way to distractions.
@@ -21,19 +35,6 @@ The task suits very well with YOLOv3 due to its well-balanced accuracy and speed
 By training YOLOv3 on a custom dataset of images with cell phones, we have fine-tuned it to be capable of recognizing a cell phone in almost any scenario. That differs in light conditions, backgrounds, and orientations, therefore the model can be well applied in real-world scenarios. The ultimate objective is to deploy the model in environments where mobile phone detection may be of critical importance, just to provide that tool which enhances capability in management and control over mobile phone use effectively.
 
 The project does not only answer a dire need in a myriad of settings, but also contributes to the value obtained in the sprawling field of computer vision by showing the world what deep learning models are capable of when they are put to work. In case of its success, the solution will help bridge gaps in other areas requiring object detection, thus demonstrating the versatility and possibilities of deep learning in the resolution of complex problems.
-
-## Group No - 7
-- Tenzin Rinchen
-- Nima Arabi 
-- Ledi Caushi
-
-
-## Table of Contents
-
-- CV_project.ipynb
-- Model/Yolov3.cfg
-- Model/Coco.names
-- Model/Yolo.weights
 
 ## References
 
